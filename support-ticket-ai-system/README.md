@@ -54,10 +54,5 @@ docker run --rm support-ticket-poc
 - [`docs/risks-and-ops.md`](docs/risks-and-ops.md) — highload, privacy, safety и audit.
 - [`AI_USAGE.md`](AI_USAGE.md), [`WORKLOG.md`](WORKLOG.md), [`SELF_REVIEW.md`](SELF_REVIEW.md) — прозрачность процесса и ограничения.
 
-## Перед сдачей
-
-1. Выполнить `make smoke` и просмотреть `git status` / `git log --oneline`.
-2. Создать приватный GitHub-репозиторий, добавить remote и отправить `main`.
-3. В GitHub открыть **Settings → Collaborators** и пригласить `aitalenthub-study` (pending-приглашения достаточно).
-4. Сдавать ссылку только после проверки, что последний commit виден в основной ветке.
+ь ссылку только после проверки, что последний commit виден в основной ветке.
 
