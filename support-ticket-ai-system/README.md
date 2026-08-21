@@ -53,6 +53,3 @@ docker run --rm support-ticket-poc
 - [`docs/monitoring.md`](docs/monitoring.md) — technical/ML/product monitoring, алерты, drift и LLM cost.
 - [`docs/risks-and-ops.md`](docs/risks-and-ops.md) — highload, privacy, safety и audit.
 - [`AI_USAGE.md`](AI_USAGE.md), [`WORKLOG.md`](WORKLOG.md), [`SELF_REVIEW.md`](SELF_REVIEW.md) — прозрачность процесса и ограничения.
-
-ь ссылку только после проверки, что последний commit виден в основной ветке.
-
